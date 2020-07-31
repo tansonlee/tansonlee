@@ -36,7 +36,7 @@
 * [Tic Tac Toe](https://github.com/tansonlee/tic-tac-toe)
 * [Snake](https://github.com/tansonlee/snake)
 * [Flappy Birds](https://github.com/tansonlee/flappy-birds)
-[ ] [Pong](https://github.com/tansonlee/pong)
+* [ ] [Pong](https://github.com/tansonlee/pong)
 
 
 ---
