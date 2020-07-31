@@ -2,6 +2,8 @@
 
 LinkedIn:
 
+---
+
 ### Finished Projects:
 
 
@@ -10,3 +12,5 @@ LinkedIn:
 ### Projects I'm Working on
 
 ---
+
+Languages and tools
