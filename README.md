@@ -1,6 +1,6 @@
 # Tanson Lee
 
-[LinkedIn](www.linkedin.com/in/tanson-lee)
+### [LinkedIn](www.linkedin.com/in/tanson-lee)
 
 ---
 
