@@ -16,6 +16,7 @@
 * [Pong](https://github.com/tansonlee/pong)
 * Mine Sweeper
 * L-system algorithm
+* speed typing game
 
 ---
 
