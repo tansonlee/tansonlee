@@ -53,13 +53,13 @@ Algorithms
 -   [Flappy Bird AI](https://github.com/tansonlee/flappy-bird-neuroevolution)
 -   Voroni Diagram
 -   Sorting Algorithms
-  -   Insertion
-  -   Merge
-  -   Quick
-  -   Heap
-  -   Counting
-  -   Selection
-  -   Bogo
+    -   Insertion
+    -   Merge
+    -   Quick
+    -   Heap
+    -   Counting
+    -   Selection
+    -   Bogo
 
 ---
 
