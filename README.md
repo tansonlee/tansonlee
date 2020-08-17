@@ -49,7 +49,6 @@ Algorithms
 -   Mine Sweeper
 -   [L-system algorithm](https://github.com/tansonlee/l-system-fractals)
 -   [speed typing game](https://github.com/tansonlee/speed-typing)
--   [Quick Sort](https://github.com/tansonlee/quick-sort)
 -   [Flappy Bird AI](https://github.com/tansonlee/flappy-bird-neuroevolution)
 -   [Recursive Fractal Tree](https://github.com/tansonlee/recursive-fractal-tree)
 -   [Voroni Diagram](https://github.com/tansonlee/voronoi-diragram)
@@ -57,7 +56,7 @@ Algorithms
 -   Sorting Algorithms
     -   Insertion
     -   Merge
-    -   Quick
+    -   [Quick Sort](https://github.com/tansonlee/quick-sort)
     -   Heap
     -   Counting
     -   Selection
