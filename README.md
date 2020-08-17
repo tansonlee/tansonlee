@@ -51,7 +51,8 @@ Algorithms
 -   [speed typing game](https://github.com/tansonlee/speed-typing)
 -   [Quick Sort](https://github.com/tansonlee/quick-sort)
 -   [Flappy Bird AI](https://github.com/tansonlee/flappy-bird-neuroevolution)
--   Voroni Diagram
+-   [Recursive Fractal Tree](https://github.com/tansonlee/recursive-fractal-tree)
+-   [Voroni Diagram](https://github.com/tansonlee/voronoi-diragram)
 -   Sorting Algorithms
     -   Insertion
     -   Merge
