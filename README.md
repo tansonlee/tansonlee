@@ -58,7 +58,6 @@ li>[Clock](https://github.com/tansonlee/clock)</li>
 ### Projects I'm Working on
 
 -   [Pong](https://github.com/tansonlee/pong)
--   Mine Sweeper
 -   [L-system algorithm](https://github.com/tansonlee/l-system-fractals)
 -   [speed typing game](https://github.com/tansonlee/speed-typing)
 -   [Flappy Bird AI](https://github.com/tansonlee/flappy-bird-neuroevolution)
