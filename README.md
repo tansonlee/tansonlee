@@ -71,7 +71,7 @@ li>[Clock](https://github.com/tansonlee/clock)</li>
     -   [Quick Sort](https://github.com/tansonlee/quick-sort)
     -   Heap
     -   Counting
-    -   Selection
+    -   [Selection](https://github.com/tansonlee/selection-sort)
     -   Bogo
 
 ---
