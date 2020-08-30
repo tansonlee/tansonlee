@@ -68,12 +68,12 @@ li>[Clock](https://github.com/tansonlee/clock)</li>
 -   [Ball Faller](https://github.com/tansonlee/ball-faller)
 -   Sorting Algorithms
     -   [Insertion](https://github.com/tansonlee/insertion-sort)
-    -   [Merge](https://github.com/tansonlee/merge-sort)
+    -   [Selection](https://github.com/tansonlee/selection-sort)
     -   [Bubble Sort](https://github.com/tansonlee/bubble-sort)
     -   [Quick Sort](https://github.com/tansonlee/quick-sort)
+    -   [Merge](https://github.com/tansonlee/merge-sort)
     -   Heap
     -   Counting
-    -   [Selection](https://github.com/tansonlee/selection-sort)
     -   Bogo
 
 ---
