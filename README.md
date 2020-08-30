@@ -67,7 +67,7 @@ li>[Clock](https://github.com/tansonlee/clock)</li>
 -   [Voroni Diagram](https://github.com/tansonlee/voronoi-diragram)
 -   [Ball Faller](https://github.com/tansonlee/ball-faller)
 -   Sorting Algorithms
-    -   Insertion
+    -   [Insertion](https://github.com/tansonlee/insertion-sort)
     -   [Merge](https://github.com/tansonlee/merge-sort)
     -   [Bubble Sort](https://github.com/tansonlee/bubble-sort)
     -   [Quick Sort](https://github.com/tansonlee/quick-sort)
