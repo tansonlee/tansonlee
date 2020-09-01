@@ -73,7 +73,7 @@ li>[Clock](https://github.com/tansonlee/clock)</li>
     -   [Quick Sort](https://github.com/tansonlee/quick-sort)
     -   [Merge](https://github.com/tansonlee/merge-sort)
     -   Heap
-    -   Counting
+    -   [Counting](https://github.com/tansonlee/counting-sort)
     -   Bogo
 
 ---
