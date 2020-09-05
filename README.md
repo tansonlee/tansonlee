@@ -63,6 +63,7 @@ li>[Clock](https://github.com/tansonlee/clock)</li>
 -   [speed typing game](https://github.com/tansonlee/speed-typing)
 -   [Flappy Bird AI](https://github.com/tansonlee/flappy-bird-neuroevolution)
 -   Pong AI
+-   Photomosaic
 -   [Recursive Fractal Tree](https://github.com/tansonlee/recursive-fractal-tree)
 -   [Voroni Diagram](https://github.com/tansonlee/voronoi-diragram)
 -   [Ball Faller](https://github.com/tansonlee/ball-faller)
