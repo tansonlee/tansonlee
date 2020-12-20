@@ -76,6 +76,7 @@ li>[Clock](https://github.com/tansonlee/clock)</li>
 -   [Recursive Fractal Tree](https://github.com/tansonlee/recursive-fractal-tree)
 -   [Voroni Diagram](https://github.com/tansonlee/voronoi-diragram)
 -   [Ball Faller](https://github.com/tansonlee/ball-faller)
+-   Visualization of Newton's method
 -   Sorting Algorithms
     -   [Insertion](https://github.com/tansonlee/insertion-sort)
     -   [Selection](https://github.com/tansonlee/selection-sort)
