@@ -12,7 +12,7 @@
  -->
 
 
-|Algorithms                                                                          | Abstract Data Structures <br> with Functional Programming                | Simulations                                                             |Web Development and Games                                                    |
+|Algorithms                                                                          | Abstract Data Structures<br>(Functional Programming)                | Simulations                                                             |Web Development and Games                                                    |
 |------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 |[Lindenmayer Systems](https://github.com/tansonlee/l-systems)                       |[Random Access Memory](https://github.com/tansonlee/ram)             |[Boid Flocking](https://github.com/tansonlee/flocking-simulation)        |[Running app](https://github.com/tansonlee/running-app)                      |
 |[Fractals Chaos Game](https://github.com/tansonlee/fractals-with-chaos-game)        |[Binary Search Tree](https://github.com/tansonlee/binary-search-tree)|[Particle Flow Field](https://github.com/tansonlee/particle-flow-field)  |[Mine Sweeper](https://github.com/tansonlee/mine-sweeper)                    |
