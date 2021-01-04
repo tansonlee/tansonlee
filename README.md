@@ -59,15 +59,6 @@
 -   [Voroni Diagram](https://github.com/tansonlee/voronoi-diragram)
 -   [Ball Faller](https://github.com/tansonlee/ball-faller)
 -   Visualization of Newton's method
--   Sorting Algorithms
-    -   [Insertion](https://github.com/tansonlee/insertion-sort)
-    -   [Selection](https://github.com/tansonlee/selection-sort)
-    -   [Bubble Sort](https://github.com/tansonlee/bubble-sort)
-    -   [Quick Sort](https://github.com/tansonlee/quick-sort)
-    -   [Merge](https://github.com/tansonlee/merge-sort)
-    -   Heap
-    -   [Counting](https://github.com/tansonlee/counting-sort)
-    -   Bogo
 
 ---
 
