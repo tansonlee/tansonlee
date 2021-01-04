@@ -47,6 +47,7 @@
 |[Linear Regression](https://github.com/tansonlee/gradient-decent-linear-regression) |                                                                     |                                                                         |                                                                             |
 |[Circle Packing](https://github.com/tansonlee/circle-packing)                       | -->
 
+---
 
 ### Projects I'm Working on
 
