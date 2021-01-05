@@ -8,11 +8,12 @@
 
 |Algorithms                                                                          | Abstract Data Structures<br>(Functional Programming)                 | Simulations                                                             |Web Development<br>and Games                                                 |
 |------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|[Lindenmayer Systems](https://github.com/tansonlee/l-systems)                       |[My Machine Language](https://github.com/tansonlee/machine-language)  |[Boid Flocking](https://github.com/tansonlee/flocking-simulation)        |[Running app](https://github.com/tansonlee/running-app)                      |
-|[Fractals Chaos Game](https://github.com/tansonlee/fractals-with-chaos-game)        |[Binary Search Tree](https://github.com/tansonlee/binary-search-tree) |[Particle Flow Field](https://github.com/tansonlee/particle-flow-field)  |[Mine Sweeper](https://github.com/tansonlee/mine-sweeper)                    |
-|[The Game of Life](https://github.com/tansonlee/game-of-life)                       |[Functional List](https://github.com/tansonlee/functional-list)       |[Sound Waves](https://github.com/tansonlee/sound-wave-simulator)         |[Tic Tac Toe](https://github.com/tansonlee/tic-tac-toe)                      |
-|[Sudoku Solver](https://github.com/tansonlee/sudoku-solver)                         |[Random Access Memory](https://github.com/tansonlee/ram)              |                                                                         |                                                                             |
-|[Maze Generator](https://github.com/tansonlee/maze-generator)                       |[Binary Trie](https://github.com/tansonlee/trie)                      |                                                                         |                                                                             |
+|[Sorting Algorithms](https://github.com/tansonlee/sorting-algorithms)               |[My Machine Language](https://github.com/tansonlee/machine-language)  |[Boid Flocking](https://github.com/tansonlee/flocking-simulation)        |[Running app](https://github.com/tansonlee/running-app)                      |
+|[Lindenmayer Systems](https://github.com/tansonlee/l-systems)                       |[Binary Search Tree](https://github.com/tansonlee/binary-search-tree) |[Particle Flow Field](https://github.com/tansonlee/particle-flow-field)  |[Mine Sweeper](https://github.com/tansonlee/mine-sweeper)                    |
+|[Fractals Chaos Game](https://github.com/tansonlee/fractals-with-chaos-game)        |[Functional List](https://github.com/tansonlee/functional-list)       |[Sound Waves](https://github.com/tansonlee/sound-wave-simulator)         |[Tic Tac Toe](https://github.com/tansonlee/tic-tac-toe)                      |
+|[The Game of Life](https://github.com/tansonlee/game-of-life)                       |[Random Access Memory](https://github.com/tansonlee/ram)              |                                                                         |                                                                             |
+|[Sudoku Solver](https://github.com/tansonlee/sudoku-solver)                         |[Binary Trie](https://github.com/tansonlee/trie)                      |                                                                         |                                                                             |
+|[Maze Generator](https://github.com/tansonlee/maze-generator)                       |                                                                      |                                                                         |                                                                             |
 
 ---
 
@@ -27,26 +28,6 @@
 |[Barnsley Fern](https://github.com/tansonlee/barnsley-fern)                           |                                                             |                                                                         |[Flappy Birds](https://github.com/tansonlee/flappy-birds)                    |
 |[Circle Packing](https://github.com/tansonlee/circle-packing)                         |                                                             |                                                                         |                                                                             |
 
-
-
-
-<!-- ### Finished Projects: -->
-
-<!-- 
-|Algorithms                                                                          | Abstract Data Structures<br>(Functional Programming)                | Simulations                                                             |Web Development<br>and Games                                                 |
-|------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|[Lindenmayer Systems](https://github.com/tansonlee/l-systems)                       |[My Machine Language](https://github.com/tansonlee/machine-language) |[Boid Flocking](https://github.com/tansonlee/flocking-simulation)        |[Running app](https://github.com/tansonlee/running-app)                      |
-|[Fractals Chaos Game](https://github.com/tansonlee/fractals-with-chaos-game)        |[Random Access Memory](https://github.com/tansonlee/ram)             |[Particle Flow Field](https://github.com/tansonlee/particle-flow-field)  |[Mine Sweeper](https://github.com/tansonlee/mine-sweeper)                    |
-|[Sudoku Solver](https://github.com/tansonlee/sudoku-solver)                         |[Binary Search Tree](https://github.com/tansonlee/binary-search-tree)|[Sound Waves](https://github.com/tansonlee/sound-wave-simulator)         |[Tic Tac Toe](https://github.com/tansonlee/tic-tac-toe)                      |
-|[Boid Flocking](https://github.com/tansonlee/flocking-simulation)                   |[Binary Trie](https://github.com/tansonlee/trie)                     |[Double Pendulum](https://github.com/tansonlee/double-pendulum)          |[Pong](https://github.com/tansonlee/pong)                                    |
-|[Ray Marching](https://github.com/tansonlee/ray-marching)                           |[Functional List](https://github.com/tansonlee/functional-list)      |                                                                         |[Snake](https://github.com/tansonlee/snake)                                  |
-|[Maze Generator](https://github.com/tansonlee/maze-generator)                       |[Hash Table](https://github.com/tansonlee/hash-table)                |                                                                         |[Clock](https://github.com/tansonlee/clock)                                  |
-|[Marching Squares](https://github.com/tansonlee/marching-squares)                   |                                                                     |                                                                         |[Temperature Converter](https://github.com/tansonlee/temperature-converter)  |
-|[Ray Casting](https://github.com/tansonlee/2D-raycasting)                           |                                                                     |                                                                         |[Flappy Birds](https://github.com/tansonlee/flappy-birds)                    |
-|[Barnsley Fern](https://github.com/tansonlee/barnsley-fern)                         |                                                                     |                                                                         |                                                                             |
-|[Linear Regression](https://github.com/tansonlee/gradient-decent-linear-regression) |                                                                     |                                                                         |                                                                             |
-|[Circle Packing](https://github.com/tansonlee/circle-packing)                       | -->
-
 ---
 
 ### Projects I'm Working on
@@ -55,9 +36,6 @@
 -   [Flappy Bird AI](https://github.com/tansonlee/flappy-bird-neuroevolution)
 -   Pong AI
 -   Photomosaic
--   [Recursive Fractal Tree](https://github.com/tansonlee/recursive-fractal-tree)
--   [Voroni Diagram](https://github.com/tansonlee/voronoi-diragram)
--   [Ball Faller](https://github.com/tansonlee/ball-faller)
 -   Visualization of Newton's method
 
 ---
@@ -86,3 +64,20 @@
 
 | <ul><li>[Lindenmayer Systems](https://github.com/tansonlee/l-systems)</li><li>[Fractals Chaos Game](https://github.com/tansonlee/fractals-with-chaos-game)</li><li>[Sudoku Solver](https://github.com/tansonlee/sudoku-solver)</li><li>[Boid Flocking](https://github.com/tansonlee/flocking-simulation)</li><li>[Particle Flow Field](https://github.com/tansonlee/particle-flow-field)</li><li>[Ray Marching](https://github.com/tansonlee/ray-marching)</li><li>[Maze Generator](https://github.com/tansonlee/maze-generator)</li><li>[Marching Squares](https://github.com/tansonlee/marching-squares)</li><li>[Ray Casting](https://github.com/tansonlee/2D-raycasting)</li><li>[Worley Noise](https://github.com/tansonlee/worley-noise)</li><li>[Barnsley Fern Fractal](https://github.com/tansonlee/barnsley-fern)</li><li>[Circle Packing](https://github.com/tansonlee/circle-packing)</li></ul> | <ul><li>[Boid FLocking](https://github.com/tansonlee/flocking-simulation)</li><li>[Particle Flow Field](https://github.com/tansonlee/particle-flow-field)</li><li>[Sound Waves](https://github.com/tansonlee/sound-wave-simulator)</li><li>[Ray Marching](https://github.com/tansonlee/ray-marching)</li><li>[Ray Casting](https://github.com/tansonlee/2D-raycasting)</li><li>[Double Pendulum](https://github.com/tansonlee/double-pendulum)</li></ul> | <ul><li>[Running app](https://github.com/tansonlee/running-app)</li><li>[Mine Sweeper](https://github.com/tansonlee/mine-sweeper)</li><li>[Pong](https://github.com/tansonlee/pong)</li><li>[Tic Tac Toe](https://github.com/tansonlee/tic-tac-toe)</li><li>[Rock Paper Scissors](https://github.com/tansonlee/rock-paper-scissors)</li><li>[Snake](https://github.com/tansonlee/snake)</li><li>[Clock](https://github.com/tansonlee/clock)</li><li>[Temperature Converter](https://github.com/tansonlee/temperature-converter)</li><li>[Flappy Birds](https://github.com/tansonlee/flappy-birds)</li></ul> | <ul><li>[Linear Regression](https://github.com/tansonlee/gradient-decent-linear-regression)</li></ul> |
  -->
+
+<!-- ### Finished Projects: -->
+
+<!-- 
+|Algorithms                                                                          | Abstract Data Structures<br>(Functional Programming)                | Simulations                                                             |Web Development<br>and Games                                                 |
+|------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+|[Lindenmayer Systems](https://github.com/tansonlee/l-systems)                       |[My Machine Language](https://github.com/tansonlee/machine-language) |[Boid Flocking](https://github.com/tansonlee/flocking-simulation)        |[Running app](https://github.com/tansonlee/running-app)                      |
+|[Fractals Chaos Game](https://github.com/tansonlee/fractals-with-chaos-game)        |[Random Access Memory](https://github.com/tansonlee/ram)             |[Particle Flow Field](https://github.com/tansonlee/particle-flow-field)  |[Mine Sweeper](https://github.com/tansonlee/mine-sweeper)                    |
+|[Sudoku Solver](https://github.com/tansonlee/sudoku-solver)                         |[Binary Search Tree](https://github.com/tansonlee/binary-search-tree)|[Sound Waves](https://github.com/tansonlee/sound-wave-simulator)         |[Tic Tac Toe](https://github.com/tansonlee/tic-tac-toe)                      |
+|[Boid Flocking](https://github.com/tansonlee/flocking-simulation)                   |[Binary Trie](https://github.com/tansonlee/trie)                     |[Double Pendulum](https://github.com/tansonlee/double-pendulum)          |[Pong](https://github.com/tansonlee/pong)                                    |
+|[Ray Marching](https://github.com/tansonlee/ray-marching)                           |[Functional List](https://github.com/tansonlee/functional-list)      |                                                                         |[Snake](https://github.com/tansonlee/snake)                                  |
+|[Maze Generator](https://github.com/tansonlee/maze-generator)                       |[Hash Table](https://github.com/tansonlee/hash-table)                |                                                                         |[Clock](https://github.com/tansonlee/clock)                                  |
+|[Marching Squares](https://github.com/tansonlee/marching-squares)                   |                                                                     |                                                                         |[Temperature Converter](https://github.com/tansonlee/temperature-converter)  |
+|[Ray Casting](https://github.com/tansonlee/2D-raycasting)                           |                                                                     |                                                                         |[Flappy Birds](https://github.com/tansonlee/flappy-birds)                    |
+|[Barnsley Fern](https://github.com/tansonlee/barnsley-fern)                         |                                                                     |                                                                         |                                                                             |
+|[Linear Regression](https://github.com/tansonlee/gradient-decent-linear-regression) |                                                                     |                                                                         |                                                                             |
+|[Circle Packing](https://github.com/tansonlee/circle-packing)                       | -->
