@@ -13,7 +13,7 @@
 |[Fractals Chaos Game](https://github.com/tansonlee/fractals-with-chaos-game)        |[Functional List](https://github.com/tansonlee/functional-list)       |[Sound Waves](https://github.com/tansonlee/sound-wave-simulator)         |[Tic Tac Toe](https://github.com/tansonlee/tic-tac-toe)                      |
 |[The Game of Life](https://github.com/tansonlee/game-of-life)                       |[Random Access Memory](https://github.com/tansonlee/ram)              |                                                                         |                                                                             |
 |[Sudoku Solver](https://github.com/tansonlee/sudoku-solver)                         |[Binary Trie](https://github.com/tansonlee/trie)                      |                                                                         |                                                                             |
-|[Maze Generator](https://github.com/tansonlee/maze-generator)                       |                                                                      |                                                                         |                                                                             |
+|[Maze Generator](https://github.com/tansonlee/maze-generator)                       |[ADT Implementations in RAM](https://github.com/tansonlee/adt-in-ram) |                                                                         |                                                                             |
 
 ---
 
