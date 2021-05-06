@@ -1,6 +1,9 @@
 # Tanson Lee
 
-### [LinkedIn](https://www.linkedin.com/in/tanson-lee-318931192/)
+### [Personal Webssite](https://tansonlee.netlify.app/)
+
+### [LinkedIn](https://www.linkedin.com/in/tansonlee)
+
 
 ---
 
