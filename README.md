@@ -6,58 +6,61 @@
 
 ## Feature Projects
 
-|Algorithms                                                                          | Abstract Data Structures<br>(Functional Programming)                 | Simulations                                                             |Web Development<br>and Games                                                 |
-|------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|[Sorting Algorithms](https://github.com/tansonlee/sorting-algorithms)               |[My Machine Language](https://github.com/tansonlee/machine-language)  |[Collision Simulator](https://github.com/tansonlee/collision-simulator)  |[Personal Website](https://github.com/tansonlee/personal-website)            |
-|[Lindenmayer Systems](https://github.com/tansonlee/l-systems)                       |[Binary Search Tree](https://github.com/tansonlee/binary-search-tree) |[Boid Flocking](https://github.com/tansonlee/flocking-simulation)        |[COVID-19 Data Tracker](https://github.com/tansonlee/covid19-data-tracker)   |
-|[Fractals Chaos Game](https://github.com/tansonlee/fractals-with-chaos-game)        |[Functional List](https://github.com/tansonlee/functional-list)       |[Particle Flow Field](https://github.com/tansonlee/particle-flow-field)  |[Running app](https://github.com/tansonlee/running-app)                      |
-|[The Game of Life](https://github.com/tansonlee/game-of-life)                       |[Random Access Memory](https://github.com/tansonlee/ram)              |[Sound Waves](https://github.com/tansonlee/sound-wave-simulator)         |[Mine Sweeper](https://github.com/tansonlee/mine-sweeper)                    |
-|[Sudoku Solver](https://github.com/tansonlee/sudoku-solver)                         |[Binary Trie](https://github.com/tansonlee/trie)                      |                                                                         |[Tic Tac Toe](https://github.com/tansonlee/tic-tac-toe)                      |
-|[Maze Generator](https://github.com/tansonlee/maze-generator)                       |[ADT Implementations in RAM](https://github.com/tansonlee/adt-in-ram) |                                                                         |                                                                             |
+<!-- prettier-ignore -->
+|Web Development                                                             |Algorithms                                                                          | Abstract Data Structures<br>(Functional Programming)                 | Simulations                                                             |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|
+|[TrackMe](https://github.com/tansonlee/TrackMe)                             |[Sorting Algorithms](https://github.com/tansonlee/sorting-algorithms)               |[My Machine Language](https://github.com/tansonlee/machine-language)  |[Collision Simulator](https://github.com/tansonlee/collision-simulator)  |
+|[Personal Website](https://github.com/tansonlee/personal-website)           |[Lindenmayer Systems](https://github.com/tansonlee/l-systems)                       |[Binary Search Tree](https://github.com/tansonlee/binary-search-tree) |[Boid Flocking](https://github.com/tansonlee/flocking-simulation)        |
+|[COVID-19 Data Tracker](https://github.com/tansonlee/covid19-data-tracker)  |[Fractals Chaos Game](https://github.com/tansonlee/fractals-with-chaos-game)        |[Functional List](https://github.com/tansonlee/functional-list)       |[Particle Flow Field](https://github.com/tansonlee/particle-flow-field)  |
+|[Running app](https://github.com/tansonlee/running-app)                     |[The Game of Life](https://github.com/tansonlee/game-of-life)                       |[Random Access Memory](https://github.com/tansonlee/ram)              |[Sound Waves](https://github.com/tansonlee/sound-wave-simulator)         |
+|[Mine Sweeper](https://github.com/tansonlee/mine-sweeper)                   |[Sudoku Solver](https://github.com/tansonlee/sudoku-solver)                         |[Binary Trie](https://github.com/tansonlee/trie)                      |                                                                         |
+|[Tic Tac Toe](https://github.com/tansonlee/tic-tac-toe)                     |[Maze Generator](https://github.com/tansonlee/maze-generator)                       |[ADT Implementations in RAM](https://github.com/tansonlee/adt-in-ram) |                                                                         |                               |
 
 ---
 
 ## Other Projects
 
-|Algorithms                                                                            | Abstract Data Structures<br>(Functional Programming)        | Simulations                                                             |Web Development<br>and Games                                                 |
-|--------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|[Marching Squares](https://github.com/tansonlee/marching-squares)                     |[Hash Table](https://github.com/tansonlee/hash-table)        |[Double Pendulum](https://github.com/tansonlee/double-pendulum)          |[Pong](https://github.com/tansonlee/pong)                                    |
-|[Linear Regression](https://github.com/tansonlee/gradient-decent-linear-regression)   |                                                             |[Parametric Equation Art](https://github.com/tansonlee/parametric-art)   |[Snake](https://github.com/tansonlee/snake)                                  |
-|[Ray Marching](https://github.com/tansonlee/ray-marching)                             |                                                             |                                                                         |[Clock](https://github.com/tansonlee/clock)                                  |
-|[Ray Casting](https://github.com/tansonlee/2D-raycasting)                             |                                                             |                                                                         |[Temperature Converter](https://github.com/tansonlee/temperature-converter)  |
-|[Barnsley Fern](https://github.com/tansonlee/barnsley-fern)                           |                                                             |                                                                         |[Flappy Birds](https://github.com/tansonlee/flappy-birds)                    |
-|[Circle Packing](https://github.com/tansonlee/circle-packing)                         |                                                             |                                                                         |                                                                             |
+<!-- prettier-ignore -->
+Web Development<br>and Games                                                 |Algorithms                                                                            | Abstract Data Structures<br>(Functional Programming)        | Simulations                                                             |
+-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------|
+|[Pong](https://github.com/tansonlee/pong)                                   |[Marching Squares](https://github.com/tansonlee/marching-squares)                     |[Hash Table](https://github.com/tansonlee/hash-table)        |[Double Pendulum](https://github.com/tansonlee/double-pendulum)          |
+|[Snake](https://github.com/tansonlee/snake)                                 |[Linear Regression](https://github.com/tansonlee/gradient-decent-linear-regression)   |                                                             |[Parametric Equation Art](https://github.com/tansonlee/parametric-art)   |
+|[Clock](https://github.com/tansonlee/clock)                                 |[Ray Marching](https://github.com/tansonlee/ray-marching)                             |                                                             |                                                                         |
+|[Temperature Converter](https://github.com/tansonlee/temperature-converter) |[Ray Casting](https://github.com/tansonlee/2D-raycasting)                             |                                                             |                                                                         |
+|[Flappy Birds](https://github.com/tansonlee/flappy-birds)                   |[Barnsley Fern](https://github.com/tansonlee/barnsley-fern)                           |                                                             |                                                                         |
+|                                                                            |[Circle Packing](https://github.com/tansonlee/circle-packing)                         |                                                             |                                                                         |                                                                             |
 
 ---
 
-### Projects I'm Working on
+<!-- ### Projects I'm Working on
 
 -   [speed typing game](https://github.com/tansonlee/speed-typing)
 -   [Flappy Bird AI](https://github.com/tansonlee/flappy-bird-neuroevolution)
 -   Pong AI
 -   Photomosaic
--   Visualization of Newton's method
+-   Visualization of Newton's method -->
 
----
+<!-- --- -->
 
 ### Languages and tools
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="p5.js" width="26px" src="https://miro.medium.com/max/790/0*VBze2-2kX06fDv8A." />
-<img align="left" alt="Racket" width="26px" src="https://avatars0.githubusercontent.com/u/232371?s=200&v=4" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img align="left" alt="MongoDb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="p5.js" width="26px" src="https://miro.medium.com/max/790/0*VBze2-2kX06fDv8A." />
+<img align="left" alt="Racket" width="26px" src="https://avatars0.githubusercontent.com/u/232371?s=200&v=4" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-
-
-
 
 <!-- | Algorithms                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Simulations                                                                                                                                                                                                                                                                                                                                                                                                                                              | Web Development & Games                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Miscellaneous                                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -67,7 +70,7 @@
 
 <!-- ### Finished Projects: -->
 
-<!-- 
+<!--
 |Algorithms                                                                          | Abstract Data Structures<br>(Functional Programming)                | Simulations                                                             |Web Development<br>and Games                                                 |
 |------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 |[Lindenmayer Systems](https://github.com/tansonlee/l-systems)                       |[My Machine Language](https://github.com/tansonlee/machine-language) |[Boid Flocking](https://github.com/tansonlee/flocking-simulation)        |[Running app](https://github.com/tansonlee/running-app)                      |
