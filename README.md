@@ -5,12 +5,12 @@
 ### [LinkedIn](https://www.linkedin.com/in/tansonlee)
 
 ```javascript
-const interests: ["esoteric programming languages", "functional programming"];
-const languages: ["JavaScript", "Python", "Bash", "C++", "C", "Racket", "PyScript"];
-const tools: ["React", "Express", "PostgreSQL", "Vim", "Git"];
-const debateOpinions: ["tabs" > "spaces", "Vim" > "Emacs", "dark" > "light", "FP" > "OOP"];
+const interests = ["esoteric programming languages", "functional programming"];
+const languages = ["JavaScript", "Python", "Bash", "C++", "C", "Racket", "PyScript"];
+const tools = ["React", "Express", "PostgreSQL", "Vim", "Git"];
+const debateOpinions = ["tabs" > "spaces", "Vim" > "Emacs", "dark" > "light", "FP" > "OOP"];
 
-const Tanson = {interests, languages, tools, debateOpinions};
+const Tanson = { interests, languages, tools, debateOpinions };
 ```
 
 <br/>
