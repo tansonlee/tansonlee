@@ -5,12 +5,12 @@
 ### [LinkedIn](https://www.linkedin.com/in/tansonlee)
 
 ```javascript
-const Tanson = {
-	interests: ["esoteric programming languages", "functional programming"],
-	languages: ["JavaScript", "Python", "Bash", "C++", "C", "Racket", "PyScript"],
-	tools: ["React", "Express", "PostgreSQL", "Vim", "Git"],
-	debateOpinions: ["tabs" > "spaces", "Vim" > "Emacs", "dark" > "light", "FP" > "OOP"],
-};
+const interests: ["esoteric programming languages", "functional programming"];
+const languages: ["JavaScript", "Python", "Bash", "C++", "C", "Racket", "PyScript"];
+const tools: ["React", "Express", "PostgreSQL", "Vim", "Git"];
+const debateOpinions: ["tabs" > "spaces", "Vim" > "Emacs", "dark" > "light", "FP" > "OOP"];
+
+const Tanson = {interests, languages, tools, debateOpinions};
 ```
 
 ## Featured Projects
@@ -21,18 +21,12 @@ const Tanson = {
 
 ## My Exploration of Functional Programming
 
-**Imperative Language Implemented with Functional Programming**
-
--   [My Machine Language](https://github.com/tansonlee/machine-language)
--   [Random Access Memory](https://github.com/tansonlee/ram)
--   [Binary Trie](https://github.com/tansonlee/trie)
-
-**Functional Data Structures**
-
--   [Binary Search Tree](https://github.com/tansonlee/binary-search-tree)
--   [Functional List](https://github.com/tansonlee/functional-list)
--   [ADT Implementations in RAM](https://github.com/tansonlee/adt-in-ram)
--   [Hash Table](https://github.com/tansonlee/hash-table)
+| Imperative Language Implemented Functionally | Functional Data Structures |
+| --- | --- |
+| [My Machine Language](https://github.com/tansonlee/machine-language) | [Binary Search Tree](https://github.com/tansonlee/binary-search-tree) |
+| [Random Access Memory](https://github.com/tansonlee/ram) | [Functional List](https://github.com/tansonlee/functional-list) |
+| [Binary Trie](https://github.com/tansonlee/trie) | [ADT Implementations in RAM](https://github.com/tansonlee/adt-in-ram) |
+|  | [Hash Table](https://github.com/tansonlee/hash-table) |
 
 ## Other Projects
 
