@@ -4,6 +4,15 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/tansonlee)
 
+```javascript
+const Tanson = {
+	interests: ["esoteric programming languages", "functional programming"],
+	languages: ["JavaScript", "Python", "Bash", "C++", "C", "Racket", "PyScript"],
+	tools: ["React", "Express", "PostgreSQL", "Vim", "Git"],
+	debateOpinions: ["tabs" > "spaces", "Vim" > "Emacs", "dark" > "light"],
+};
+```
+
 ## Featured Projects
 
 1. **[TrackMe](https://github.com/tansonlee/TrackMe)** - Project management software
