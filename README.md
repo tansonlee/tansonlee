@@ -4,15 +4,11 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/tansonlee)
 
----
-
 ## Featured Projects
 
-1. TrackMe - Project management software: [TrackMe](https://github.com/tansonlee/TrackMe)
-2. PyScript - An interpreted and compiled language: [PyScript](https://github.com/tansonlee/PyScript)
-3. Fooder
-
----
+1. **[TrackMe](https://github.com/tansonlee/TrackMe)** - Project management software
+2. **[PyScript](https://github.com/tansonlee/PyScript)** - An interpreted and compiled language:
+3. **Fooder** -
 
 ## My Exploration of Functional Programming
 
@@ -28,8 +24,6 @@
 -   [Functional List](https://github.com/tansonlee/functional-list)
 -   [ADT Implementations in RAM](https://github.com/tansonlee/adt-in-ram)
 -   [Hash Table](https://github.com/tansonlee/hash-table)
-
----
 
 ## Other Projects
 
