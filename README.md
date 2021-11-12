@@ -13,11 +13,17 @@ const debateOpinions: ["tabs" > "spaces", "Vim" > "Emacs", "dark" > "light", "FP
 const Tanson = {interests, languages, tools, debateOpinions};
 ```
 
+<br/>
+<br/>
+
 ## Featured Projects
 
 1. **[TrackMe](https://github.com/tansonlee/TrackMe)** - Project management software
 2. **[PyScript](https://github.com/tansonlee/PyScript)** - An interpreted and compiled language:
 3. **Fooder** -
+
+<br/>
+<br/>
 
 ## My Exploration of Functional Programming
 
@@ -27,6 +33,9 @@ const Tanson = {interests, languages, tools, debateOpinions};
 | [Random Access Memory](https://github.com/tansonlee/ram) | [Functional List](https://github.com/tansonlee/functional-list) |
 | [Binary Trie](https://github.com/tansonlee/trie) | [ADT Implementations in RAM](https://github.com/tansonlee/adt-in-ram) |
 |  | [Hash Table](https://github.com/tansonlee/hash-table) |
+
+<br/>
+<br/>
 
 ## Other Projects
 
@@ -40,7 +49,8 @@ const Tanson = {interests, languages, tools, debateOpinions};
 |[Tic Tac Toe](https://github.com/tansonlee/tic-tac-toe)                     |[Lindenmayer Systems](https://github.com/tansonlee/l-systems)                       |                                                                        |
 |[Pong](https://github.com/tansonlee/pong)                                   |[Maze Generator](https://github.com/tansonlee/maze-generator)                       |                                                                        |
 
----
+<br/>
+<br/>
 
 ## Miscaleneous Projects
 
