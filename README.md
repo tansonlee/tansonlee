@@ -9,7 +9,7 @@ const Tanson = {
 	interests: ["esoteric programming languages", "functional programming"],
 	languages: ["JavaScript", "Python", "Bash", "C++", "C", "Racket", "PyScript"],
 	tools: ["React", "Express", "PostgreSQL", "Vim", "Git"],
-	debateOpinions: ["tabs" > "spaces", "Vim" > "Emacs", "dark" > "light"],
+	debateOpinions: ["tabs" > "spaces", "Vim" > "Emacs", "dark" > "light", "FP" > "OOP"],
 };
 ```
 
