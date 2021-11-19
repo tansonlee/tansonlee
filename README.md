@@ -52,7 +52,7 @@ const Tanson = { interests, languages, tools, debateOpinions };
 <br/>
 <br/>
 
-## Miscaleneous Projects
+## Miscellaneous Projects
 
 -   [Barnsley Fern](https://github.com/tansonlee/barnsley-fern)
 -   [Sound Waves](https://github.com/tansonlee/sound-wave-simulator)
