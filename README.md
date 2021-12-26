@@ -15,12 +15,14 @@ const Tanson = { interests, languages, tools };
 <br/>
 <br/>
 
-## Projects
+## Table of Contents
 
 1. [Featured Projects](#featured-projects)
 2. [Functional Programming Projects](#functional-programming-projects)
 3. [Other Projects](#other-projects)
 4. [Miscellaneous Projects](#miscellaneous-projects)
+
+<br/>
 
 ## Featured Projects
 
@@ -29,19 +31,17 @@ const Tanson = { interests, languages, tools };
 3. **Fooder** - Work in progress
 
 <br/>
-<br/>
 
 ## Functional Programming Projects
 
--   [My Machine Language](https://github.com/tansonlee/machine-language)
--   [Random Access Memory](https://github.com/tansonlee/ram)
--   [Functional List](https://github.com/tansonlee/functional-list)
--   [Binary Search Tree](https://github.com/tansonlee/binary-search-tree)
--   [Binary Trie](https://github.com/tansonlee/trie)
--   [ADT Implementations in RAM](https://github.com/tansonlee/adt-in-ram)
--   [Hash Table](https://github.com/tansonlee/hash-table)
+1.  [My Machine Language](https://github.com/tansonlee/machine-language)
+2.  [Random Access Memory](https://github.com/tansonlee/ram)
+3.  [Functional List](https://github.com/tansonlee/functional-list)
+4.  [Binary Search Tree](https://github.com/tansonlee/binary-search-tree)
+5.  [Binary Trie](https://github.com/tansonlee/trie)
+6.  [ADT Implementations in RAM](https://github.com/tansonlee/adt-in-ram)
+7.  [Hash Table](https://github.com/tansonlee/hash-table)
 
-<br/>
 <br/>
 
 ## Other Projects
@@ -57,20 +57,19 @@ const Tanson = { interests, languages, tools };
 |[Pong](https://github.com/tansonlee/pong)                                   |[Maze Generator](https://github.com/tansonlee/maze-generator)                       |                                                                        |
 
 <br/>
-<br/>
 
 ## Miscellaneous Projects
 
--   [Barnsley Fern](https://github.com/tansonlee/barnsley-fern)
--   [Sound Waves](https://github.com/tansonlee/sound-wave-simulator)
--   [Parametric Equation Art](https://github.com/tansonlee/parametric-art)
--   [Particle Flow Field](https://github.com/tansonlee/particle-flow-field)
--   [Double Pendulum](https://github.com/tansonlee/double-pendulum)
--   [Snake](https://github.com/tansonlee/snake)
--   [Marching Squares](https://github.com/tansonlee/marching-squares)
--   [Linear Regression](https://github.com/tansonlee/gradient-decent-linear-regression)
--   [Ray Casting](https://github.com/tansonlee/2D-raycasting)
--   [Ray Marching](https://github.com/tansonlee/ray-marching)
+1.  [Barnsley Fern](https://github.com/tansonlee/barnsley-fern)
+2.  [Sound Waves](https://github.com/tansonlee/sound-wave-simulator)
+3.  [Parametric Equation Art](https://github.com/tansonlee/parametric-art)
+4.  [Particle Flow Field](https://github.com/tansonlee/particle-flow-field)
+5.  [Double Pendulum](https://github.com/tansonlee/double-pendulum)
+6.  [Snake](https://github.com/tansonlee/snake)
+7.  [Marching Squares](https://github.com/tansonlee/marching-squares)
+8.  [Linear Regression](https://github.com/tansonlee/gradient-decent-linear-regression)
+9.  [Ray Casting](https://github.com/tansonlee/2D-raycasting)
+10. [Ray Marching](https://github.com/tansonlee/ray-marching)
 
 ---
 
