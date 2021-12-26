@@ -6,9 +6,8 @@
 
 ```javascript
 const interests = ["esoteric programming languages", "functional programming"];
-const languages = ["JavaScript", "Python", "Bash", "C++", "C", "Racket", "PyScript"];
-const tools = ["React", "Express", "PostgreSQL", "Vim", "Git"];
-const debateOpinions = ["tabs" > "spaces", "Vim" > "Emacs", "dark" > "light", "FP" > "OOP"];
+const languages = ["JavaScript", "Python", "C++", "C", "Bash", "R", "Racket", "PyScript"];
+const technologies = ["React", "Express", "Node", "PostgreSQL", "Vim", "Git"];
 
 const Tanson = { interests, languages, tools, debateOpinions };
 ```
@@ -52,7 +51,7 @@ const Tanson = { interests, languages, tools, debateOpinions };
 <br/>
 <br/>
 
-## Miscaleneous Projects
+## Miscellaneous Projects
 
 -   [Barnsley Fern](https://github.com/tansonlee/barnsley-fern)
 -   [Sound Waves](https://github.com/tansonlee/sound-wave-simulator)
