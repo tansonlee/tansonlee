@@ -1,6 +1,6 @@
 # Tanson Lee
 
-### [My Personal Website](https://tansonlee.netlify.app/)
+### [My Personal Website](https://tansonlee.me/)
 
 ### [LinkedIn](https://www.linkedin.com/in/tansonlee)
 
