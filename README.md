@@ -9,7 +9,7 @@ const interests = ["esoteric programming languages", "functional programming"];
 const languages = ["JavaScript", "Python", "C++", "C", "Bash", "R", "Racket", "PyScript"];
 const technologies = ["React", "Express", "Node", "PostgreSQL", "Vim", "Git"];
 
-const Tanson = { interests, languages, tools };
+const Tanson = { interests, languages, technologies };
 ```
 
 <br/>
