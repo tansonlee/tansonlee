@@ -12,6 +12,8 @@ const technologies = ["React", "Express", "Node", "PostgreSQL", "Vim", "Git"];
 const Tanson = { interests, languages, technologies };
 ```
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tansonlee)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
 <br/>
 
