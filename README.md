@@ -4,15 +4,12 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/tansonlee)
 
-```javascript
-const interests = ["esoteric programming languages", "functional programming"];
-const languages = ["JavaScript", "Python", "C++", "C", "Bash", "R", "Racket", "PyScript"];
-const technologies = ["React", "Express", "Node", "PostgreSQL", "Vim", "Git"];
+👋 I'm Tanson, a software engineer. I'm interested in many engineering fields but I enjoy tinkering in web3 and esoteric programming languages.
 
-const Tanson = { interests, languages, technologies };
-```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tansonlee)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---
 
 <br/>
 <br/>
@@ -94,3 +91,4 @@ const Tanson = { interests, languages, technologies };
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+--->
