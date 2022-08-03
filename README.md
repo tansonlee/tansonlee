@@ -45,7 +45,6 @@
 
 ## Other Projects
 
-<!-- prettier-ignore -->
 |Web Development                                                             |Generation & Simulation                                                             |Algorithms                                                              |
 |----------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------------------------------------------------------------------|
 |[Personal Website](https://github.com/tansonlee/personal-website)           |[Collision Simulator](https://github.com/tansonlee/collision-simulator)             |[Sorting Algorithms](https://github.com/tansonlee/sorting-algorithms)   |
