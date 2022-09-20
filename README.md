@@ -6,8 +6,13 @@
 
 👋 I'm Tanson, a software engineer. I'm interested in many engineering fields but I enjoy tinkering in web3 and esoteric programming languages.
 
+Here are my three latest projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tansonlee)](https://github.com/anuraghazra/github-readme-stats)
+1. **[Notifyr](https://github.com/tansonlee/notifyr)**: A developer tool to send notifications to your customers.
+2. **[Fooder](https://github.com/tansonlee/fooder-frontend)**: An app to help you and your friends decide where to eat.
+3. **[PyScript](https://github.com/tansonlee/PyScript)**: A scripting language packaged with a compiler and interpreter.
+
+For more projects, visit my repositories
 
 <!--
 
