@@ -6,7 +6,7 @@
 
 👋 I'm Tanson, a software engineer. I'm interested in many fields but I in particular, I enjoy tinkering in game development, web3, and esoteric programming languages.
 
-Here are my three latest projects
+Here are my four latest projects
 
 1. **[Ray Tracer](https://github.com/tansonlee/ray-tracer)**: A ray tracer written in C++.
 2. **[Notifyr](https://github.com/tansonlee/notifyr)**: A developer tool to send notifications to your customers.
