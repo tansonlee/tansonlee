@@ -4,7 +4,7 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/tansonlee)
 
-👋 I'm Tanson, a software engineer. I'm interested in many fields but I in particular, I enjoy tinkering in game development, web3, and esoteric programming languages.
+👋 I'm Tanson, a software engineer. I'm interested in many fields but in particular, I enjoy tinkering in game development, web3, and esoteric programming languages.
 
 Here are my four latest projects
 
