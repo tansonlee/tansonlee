@@ -1,8 +1,7 @@
 # Tanson Lee
 
-### [My Personal Website](https://tansonlee.me/)
-
-### [LinkedIn](https://www.linkedin.com/in/tansonlee)
+* **[My Personal Website](https://tansonlee.me/)**
+* **[My LinkedIn](https://www.linkedin.com/in/tansonlee)**
 
 👋 I'm Tanson, a software engineer. I'm interested in many fields but in particular, I enjoy tinkering in game development, web3, and esoteric programming languages.
 
