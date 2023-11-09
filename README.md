@@ -7,10 +7,11 @@
 
 Here are my four latest projects
 
-1. **[Ray Tracer](https://github.com/tansonlee/ray-tracer)**: A ray tracer written in C++.
+1. **[Echo Cache](https://github.com/tansonlee/echo-cache)**: A distributed, scalable, in-memory caching solution.
 2. **[PyScript](https://github.com/tansonlee/PyScript)**: A scripting language packaged with a compiler and interpreter.
-3. **[Notifyr](https://github.com/tansonlee/notifyr)**: A developer tool to send notifications to your customers.
-4. **[Fooder](https://github.com/tansonlee/fooder-frontend)**: An app to help you and your friends decide where to eat.
+3. **[Ray Tracer](https://github.com/tansonlee/ray-tracer)**: A ray tracer written in C++.
+4. **[Notifyr](https://github.com/tansonlee/notifyr)**: A developer tool to send notifications to your customers.
+5. **[Fooder](https://github.com/tansonlee/fooder-frontend)**: An app to help you and your friends decide where to eat.
 
 For more projects, visit my repositories
 
