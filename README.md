@@ -5,7 +5,7 @@
 
 👋 I'm Tanson. I'm a software engineer looking to learn interesting things. My current interests are in distributed systems, databases, game development, web3 and esoteric programming languages. Apart from engineering, I enjoy exploring nature along with playing sports such as basketball and volleyball.
 
-Here are my four latest projects
+Here are my latest projects
 
 1. **[Echo Cache](https://github.com/tansonlee/echo-cache)**: A distributed, scalable, in-memory caching solution.
 2. **[PyScript](https://github.com/tansonlee/PyScript)**: A scripting language packaged with a compiler and interpreter.
