@@ -13,6 +13,8 @@ Here are my latest projects
 4. **[Notifyr](https://github.com/tansonlee/notifyr)**: A developer tool to send notifications to your customers.
 5. **[Fooder](https://github.com/tansonlee/fooder-frontend)**: An app to help you and your friends decide where to eat.
 
+Currently working on a [Lisp Interpreter](https://github.com/tansonlee/lisp-interpreter) to learn Rust.
+
 For more projects, visit my repositories
 
 <!--
