@@ -3,7 +3,7 @@
 * **[My Personal Website](https://tansonlee.me/)**
 * **[My LinkedIn](https://www.linkedin.com/in/tansonlee)**
 
-👋 I'm Tanson. I'm a software engineer looking to learn interesting things. My current interests are in distributed systems, databases, game development, web3 and esoteric programming languages. Apart from engineering, I enjoy exploring nature along with playing sports such as basketball and volleyball.
+👋 I'm Tanson. I'm a software engineer looking to learn interesting things. My current interests are in distributed systems, databases, and game development.
 
 Here are my latest projects
 
