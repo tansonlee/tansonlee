@@ -8,12 +8,11 @@
 Here are my latest projects
 
 1. **[Echo Cache](https://github.com/tansonlee/echo-cache)**: A distributed, scalable, in-memory caching solution.
-2. **[PyScript](https://github.com/tansonlee/PyScript)**: A scripting language packaged with a compiler and interpreter.
-3. **[Ray Tracer](https://github.com/tansonlee/ray-tracer)**: A ray tracer written in C++.
-4. **[Notifyr](https://github.com/tansonlee/notifyr)**: A developer tool to send notifications to your customers.
-5. **[Fooder](https://github.com/tansonlee/fooder-frontend)**: An app to help you and your friends decide where to eat.
-
-Currently working on a [Lisp Interpreter](https://github.com/tansonlee/lisp-interpreter) to learn Rust.
+2. **[Rusty Racket](https://github.com/tansonlee/rusty-racket)**: An interpreter written in Rust for a purely functional language.
+3. **[PyScript](https://github.com/tansonlee/PyScript)**: A scripting language packaged with a compiler and interpreter.
+4. **[Ray Tracer](https://github.com/tansonlee/ray-tracer)**: A ray tracer written in C++.
+5. **[Notifyr](https://github.com/tansonlee/notifyr)**: A developer tool to send notifications to your customers.
+6. **[Fooder](https://github.com/tansonlee/fooder-frontend)**: An app to help you and your friends decide where to eat.
 
 For more projects, visit my repositories
 
