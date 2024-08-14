@@ -3,7 +3,7 @@
 * **[My Personal Website](https://tansonlee.me/)**
 * **[My LinkedIn](https://www.linkedin.com/in/tansonlee)**
 
-👋 I'm Tanson. I'm a software engineer looking to learn interesting things. My current interests are in distributed systems, databases, and game development.
+👋 I'm Tanson. I'm a software engineer looking to learn interesting things. My current interests are in distributed systems, databases, and game development. I graduate in April 2025 and I'm looking for new grad opportunities!
 
 Here are my latest projects
 
